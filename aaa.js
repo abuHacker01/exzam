@@ -29,18 +29,18 @@
 
 
 
-let coordinate = { c1: [3, 2, 4], c2: [1, 2, 2], c3: [7, 4, 1], c4: [2, 2, 2] };
-let s = [2, 3, 5];
+// let coordinate = { c1: [3, 2, 4], c2: [1, 2, 2], c3: [7, 4, 1], c4: [2, 2, 2] };
+// let s = [2, 3, 5];
 
-let res = Object.values(coordinate);
-for (i of res) {
-    let res2 = [];
-    let res1 = i;
-    for (a = 0; a < res.length - 1; a++) {
-        res2.push(Math.abs(s[a] - res1[a]) * Math.abs(s[a] - res1[a]));
-    }
-    console.log(res2);
-}
+// let res = Object.values(coordinate);
+// for (i of res) {
+//     let res2 = [];
+//     let res1 = i;
+//     for (a = 0; a < res.length - 1; a++) {
+//         res2.push(Math.abs(s[a] - res1[a]) * Math.abs(s[a] - res1[a]));
+//     }
+//     console.log(res2);
+// }
 
 
 
