@@ -38,12 +38,9 @@ for (i of res) {
     let res1 = i;
     let res3 = 0;
     for (a = 0; a < res.length - 1; a++) {
-        res2.push(Math.abs(s[a] - res1[a]));
+        res2.push(Math.abs(s[a] - res1[a]) * Math.abs(s[a] - res1[a]));
     }
-    for (o of res2) {
-        console.log(o);
-    }
-    console.log(res3);
+    console.log(res2);
 }
 
 
