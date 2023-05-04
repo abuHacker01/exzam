@@ -1,9 +1,10 @@
-// let str = "+998 94 180 7747";
-// function numbers(num) {
+// / first  
+
+
+
+// function numbers(str) {
 //     let res = [];
-//     for (i of str) {
-//         res.push(i);
-//     }
+//     for (i of str) { res.push(i); }
 //     let res1 = res.splice(0, 4);
 //     let res2 = res.splice(1, 2);
 //     let res3 = res.splice(2, 3);
@@ -20,13 +21,13 @@
 //     obj.number = str4;
 //     console.log(obj);
 // }
-// numbers(str);
+// numbers("+998 94 180 7747");
 
 
 
 
 
-
+// / second
 
 
 // let coordinate = { c1: [3, 2, 4], c2: [1, 2, 2], c3: [7, 4, 1], c4: [2, 2, 2] };
@@ -45,51 +46,47 @@
 
 
 
-
+// third
 
 
 // let title = "webbrain academy";
 // function sorting(title) {
-//     let arr = [];
-//     for (i of title) { if (i == "a") { arr.push(i); } }
-//     for (i of title) { if (i == "b") { arr.push(i); } }
-//     for (i of title) { if (i == "c") { arr.push(i); } }
-//     for (i of title) { if (i == "d") { arr.push(i); } }
-//     for (i of title) { if (i == "e") { arr.push(i); } }
-//     for (i of title) { if (i == "f") { arr.push(i); } }
-//     for (i of title) { if (i == "g") { arr.push(i); } }
-//     for (i of title) { if (i == "h") { arr.push(i); } }
-//     for (i of title) { if (i == "i") { arr.push(i); } }
-//     for (i of title) { if (i == "j") { arr.push(i); } }
-//     for (i of title) { if (i == "k") { arr.push(i); } }
-//     for (i of title) { if (i == "l") { arr.push(i); } }
-//     for (i of title) { if (i == "m") { arr.push(i); } }
-//     for (i of title) { if (i == "n") { arr.push(i); } }
-//     for (i of title) { if (i == "o") { arr.push(i); } }
-//     for (i of title) { if (i == "p") { arr.push(i); } }
-//     for (i of title) { if (i == "q") { arr.push(i); } }
-//     for (i of title) { if (i == "r") { arr.push(i); } }
-//     for (i of title) { if (i == "s") { arr.push(i); } }
-//     for (i of title) { if (i == "t") { arr.push(i); } }
-//     for (i of title) { if (i == "u") { arr.push(i); } }
-//     for (i of title) { if (i == "v") { arr.push(i); } }
-//     for (i of title) { if (i == "w") { arr.push(i); } }
-//     for (i of title) { if (i == "x") { arr.push(i); } }
-//     for (i of title) { if (i == "y") { arr.push(i); } }
-//     for (i of title) { if (i == "z") { arr.push(i); } }
+//     let arr = '';
+//     for (i of title) { if (i == "a") { arr += i; } }
+//     for (i of title) { if (i == "b") { arr += i; } }
+//     for (i of title) { if (i == "c") { arr += i; } }
+//     for (i of title) { if (i == "d") { arr += i; } }
+//     for (i of title) { if (i == "e") { arr += i; } }
+//     for (i of title) { if (i == "f") { arr += i; } }
+//     for (i of title) { if (i == "g") { arr += i; } }
+//     for (i of title) { if (i == "h") { arr += i; } }
+//     for (i of title) { if (i == "i") { arr += i; } }
+//     for (i of title) { if (i == "j") { arr += i; } }
+//     for (i of title) { if (i == "k") { arr += i; } }
+//     for (i of title) { if (i == "l") { arr += i; } }
+//     for (i of title) { if (i == "m") { arr += i; } }
+//     for (i of title) { if (i == "n") { arr += i; } }
+//     for (i of title) { if (i == "o") { arr += i; } }
+//     for (i of title) { if (i == "p") { arr += i; } }
+//     for (i of title) { if (i == "q") { arr += i; } }
+//     for (i of title) { if (i == "r") { arr += i; } }
+//     for (i of title) { if (i == "s") { arr += i; } }
+//     for (i of title) { if (i == "t") { arr += i; } }
+//     for (i of title) { if (i == "u") { arr += i; } }
+//     for (i of title) { if (i == "v") { arr += i; } }
+//     for (i of title) { if (i == "w") { arr += i; } }
+//     for (i of title) { if (i == "x") { arr += i; } }
+//     for (i of title) { if (i == "y") { arr += i; } }
+//     for (i of title) { if (i == "z") { arr += i; } }
 //     let str = "";
 //     for (i of arr) {
 //         str += i;
 //     }
 //     console.log(str);
 // }
-// sorting(title)
+// sorting(title);
 
-
-
-
-
-
+// / forth
 
 // let coordinate = { c1: [3, 2, 4], c2: [1, 2, 2], c3: [7, 4, 1], c4: [2, 2, 2], };
 // let res = Object.values(coordinate);

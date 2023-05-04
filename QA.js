@@ -16,44 +16,6 @@
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   // 1-SAVOL berilgan stringdagi telefon raqamni codelarga ajrating!
   {
     let str = "+998 33 576 2020";
